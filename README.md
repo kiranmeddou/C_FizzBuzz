@@ -1,2 +1,2 @@
-# C_FizzBuzz
-Bonjour
+# C_FizzBuzz 
+Fizzbuzz Kata
